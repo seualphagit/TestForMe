@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++0x  -rdynamic CMakeFiles/test_github.dir/main.cpp.o  -o test_github  -lgeneral_pb2 

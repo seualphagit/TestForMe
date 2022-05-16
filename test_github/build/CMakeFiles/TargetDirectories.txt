@@ -1,0 +1,8 @@
+/home/hippo/project/test_github/build/CMakeFiles/rebuild_cache.dir
+/home/hippo/project/test_github/build/CMakeFiles/edit_cache.dir
+/home/hippo/project/test_github/build/CMakeFiles/test_github.dir
+/home/hippo/project/test_github/build/test_libevent/CMakeFiles/rebuild_cache.dir
+/home/hippo/project/test_github/build/test_libevent/CMakeFiles/edit_cache.dir
+/home/hippo/project/test_github/build/test_libevent/CMakeFiles/test_libevent.dir
+/home/hippo/project/test_github/build/test_zmq/CMakeFiles/rebuild_cache.dir
+/home/hippo/project/test_github/build/test_zmq/CMakeFiles/edit_cache.dir
